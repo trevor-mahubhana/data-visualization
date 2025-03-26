@@ -1,0 +1,1001 @@
+age,gender,salary,edu_level,state
+55,male,800,master degree,chicago
+61,female,1216,undergraduate degree,chicago
+30,male,1224,certificates only,san francisco
+26,female,1649,master degree,chicago
+27,male,883,certificates only,san francisco
+29,female,1237,master degree,alaska
+23,male,1601,master degree,chicago
+33,male,1806,master degree,los angeles
+18,female,1443,certificates only,chicago
+34,female,849,certificates only,chicago
+19,male,888,master degree,new york
+30,male,1510,master degree,denver
+25,female,1306,undergraduate degree,denver
+63,female,1452,certificates only,washington dc
+24,female,1605,certificates only,alaska
+43,female,1647,undergraduate degree,alaska
+68,male,1318,undergraduate degree,washington dc
+38,female,2083,certificates only,denver
+55,male,2076,master degree,florida
+36,female,1653,master degree,califonia
+38,female,1484,undergraduate degree,alaska
+29,female,1981,master degree,chicago
+60,female,1251,undergraduate degree,denver
+46,male,1122,undergraduate degree,new york
+47,female,1852,master degree,denver
+32,male,1180,undergraduate degree,denver
+68,male,884,master degree,alaska
+22,female,1534,undergraduate degree,san francisco
+41,female,1983,certificates only,new york
+41,female,1081,master degree,los angeles
+59,male,2057,undergraduate degree,los angeles
+67,female,1748,master degree,san francisco
+48,male,859,undergraduate degree,chicago
+50,female,1038,undergraduate degree,florida
+40,male,2072,master degree,chicago
+31,male,1329,certificates only,new york
+59,male,1462,undergraduate degree,miami
+27,female,2093,master degree,new york
+25,male,1342,undergraduate degree,washington dc
+40,female,1618,master degree,alaska
+19,female,1156,undergraduate degree,califonia
+18,male,1461,undergraduate degree,miami
+35,female,871,certificates only,florida
+26,female,1315,master degree,washington dc
+42,male,1463,undergraduate degree,chicago
+31,male,1580,undergraduate degree,los angeles
+69,male,1517,master degree,chicago
+65,male,1558,certificates only,washington dc
+60,female,1289,undergraduate degree,washington dc
+26,female,1342,certificates only,califonia
+48,female,1927,master degree,los angeles
+25,female,1692,undergraduate degree,califonia
+21,female,1152,undergraduate degree,chicago
+24,female,1897,certificates only,los angeles
+39,male,967,master degree,los angeles
+67,male,1624,certificates only,new york
+21,female,2012,undergraduate degree,san francisco
+22,female,1309,master degree,miami
+42,female,1593,undergraduate degree,chicago
+67,female,1791,certificates only,new york
+61,male,1304,undergraduate degree,los angeles
+30,male,1795,master degree,denver
+44,female,1419,master degree,chicago
+34,female,1298,certificates only,denver
+63,male,946,master degree,new york
+69,female,929,master degree,califonia
+59,female,962,undergraduate degree,washington dc
+36,female,1186,master degree,san francisco
+33,female,1457,undergraduate degree,san francisco
+18,male,1579,undergraduate degree,washington dc
+22,female,853,undergraduate degree,chicago
+43,female,1010,master degree,denver
+65,female,1835,master degree,los angeles
+52,male,1267,undergraduate degree,florida
+41,male,1187,master degree,chicago
+25,female,1139,undergraduate degree,florida
+44,male,800,undergraduate degree,denver
+43,male,1653,certificates only,los angeles
+58,male,1235,certificates only,chicago
+40,male,1915,certificates only,califonia
+27,male,1297,undergraduate degree,los angeles
+21,female,2078,certificates only,alaska
+57,female,1908,undergraduate degree,washington dc
+41,female,1957,undergraduate degree,new york
+54,male,939,certificates only,alaska
+45,female,1893,undergraduate degree,chicago
+55,female,2089,master degree,san francisco
+37,male,2045,master degree,new york
+56,female,960,master degree,los angeles
+26,female,1354,master degree,alaska
+50,male,1631,certificates only,san francisco
+52,male,1975,undergraduate degree,denver
+28,male,1224,certificates only,florida
+41,female,1375,undergraduate degree,alaska
+33,male,959,master degree,los angeles
+65,male,1074,certificates only,chicago
+41,male,968,master degree,los angeles
+43,female,2085,undergraduate degree,miami
+25,female,912,master degree,chicago
+69,female,904,certificates only,denver
+46,male,1465,undergraduate degree,san francisco
+28,male,2020,master degree,los angeles
+64,female,1906,master degree,alaska
+50,female,1169,master degree,washington dc
+42,male,1526,certificates only,miami
+41,female,1837,undergraduate degree,washington dc
+19,male,821,undergraduate degree,san francisco
+67,female,880,certificates only,new york
+31,male,1406,master degree,chicago
+21,female,1105,certificates only,san francisco
+18,female,851,undergraduate degree,los angeles
+31,female,1966,certificates only,new york
+24,female,1982,certificates only,new york
+39,female,1834,certificates only,califonia
+24,female,1781,certificates only,florida
+20,male,2084,certificates only,denver
+30,male,2006,undergraduate degree,los angeles
+45,female,1627,certificates only,new york
+39,female,1780,master degree,san francisco
+29,female,1922,certificates only,califonia
+25,male,1609,certificates only,florida
+31,female,1859,undergraduate degree,miami
+26,female,914,certificates only,denver
+29,male,984,undergraduate degree,new york
+30,male,2074,master degree,califonia
+61,female,1067,undergraduate degree,denver
+38,male,1748,undergraduate degree,califonia
+48,female,1634,certificates only,los angeles
+54,female,1461,certificates only,alaska
+57,female,1434,certificates only,alaska
+25,male,1918,certificates only,florida
+63,male,1730,master degree,miami
+22,female,1501,certificates only,chicago
+66,female,1909,certificates only,chicago
+36,male,2067,master degree,chicago
+50,female,1884,undergraduate degree,washington dc
+31,male,1539,master degree,alaska
+28,female,1043,certificates only,miami
+41,male,1147,undergraduate degree,new york
+35,male,1002,certificates only,new york
+25,female,1448,undergraduate degree,miami
+42,male,1515,master degree,los angeles
+28,female,1009,master degree,los angeles
+46,male,1209,master degree,new york
+38,male,1782,undergraduate degree,califonia
+50,female,892,master degree,miami
+30,female,1396,certificates only,chicago
+19,female,1256,certificates only,denver
+48,female,2051,master degree,new york
+59,male,1064,certificates only,chicago
+42,male,983,master degree,washington dc
+36,female,860,certificates only,miami
+69,female,1472,undergraduate degree,denver
+51,female,1651,undergraduate degree,washington dc
+20,male,1467,certificates only,chicago
+62,female,1279,undergraduate degree,san francisco
+46,male,1236,master degree,florida
+57,male,1180,certificates only,chicago
+52,male,1678,master degree,washington dc
+28,female,1720,certificates only,new york
+50,male,1687,master degree,chicago
+59,female,984,undergraduate degree,florida
+36,female,1992,master degree,washington dc
+40,female,1100,master degree,san francisco
+24,female,1972,certificates only,washington dc
+20,female,949,master degree,denver
+25,male,1633,master degree,san francisco
+57,male,2044,master degree,miami
+66,female,1970,certificates only,new york
+33,male,868,undergraduate degree,califonia
+23,male,925,master degree,miami
+35,female,1134,master degree,florida
+60,male,1883,undergraduate degree,miami
+38,male,1496,undergraduate degree,florida
+66,male,2062,undergraduate degree,califonia
+40,male,1600,undergraduate degree,chicago
+55,male,1109,certificates only,chicago
+31,male,1448,certificates only,san francisco
+67,male,833,undergraduate degree,alaska
+68,female,2044,certificates only,califonia
+51,female,1337,certificates only,los angeles
+38,male,867,certificates only,washington dc
+28,male,1313,undergraduate degree,washington dc
+50,female,1282,certificates only,san francisco
+43,female,1704,master degree,new york
+39,male,1039,undergraduate degree,new york
+57,female,1595,certificates only,chicago
+50,female,1822,undergraduate degree,washington dc
+37,male,1433,master degree,florida
+43,male,1213,certificates only,califonia
+67,female,2076,master degree,los angeles
+32,male,1645,undergraduate degree,denver
+31,male,1066,undergraduate degree,miami
+38,female,1968,master degree,denver
+61,male,1391,undergraduate degree,new york
+24,female,1770,certificates only,san francisco
+31,female,1952,certificates only,florida
+33,female,958,certificates only,miami
+42,female,1059,certificates only,califonia
+27,male,1777,master degree,chicago
+20,male,1504,certificates only,chicago
+25,female,1094,master degree,califonia
+23,male,1946,undergraduate degree,san francisco
+54,male,1891,undergraduate degree,new york
+55,female,958,master degree,washington dc
+39,female,1077,undergraduate degree,washington dc
+58,male,826,master degree,miami
+31,female,1322,master degree,alaska
+45,female,1637,certificates only,califonia
+67,male,1348,master degree,miami
+67,male,1961,certificates only,miami
+65,female,1172,certificates only,miami
+31,female,1550,certificates only,florida
+58,female,1184,master degree,los angeles
+32,male,855,master degree,florida
+63,male,1291,master degree,alaska
+41,female,2090,certificates only,chicago
+34,male,1059,undergraduate degree,washington dc
+46,female,1261,master degree,chicago
+60,female,837,certificates only,florida
+63,male,1456,undergraduate degree,califonia
+21,male,1081,undergraduate degree,miami
+20,male,1547,master degree,alaska
+32,female,1691,master degree,miami
+64,male,1191,undergraduate degree,new york
+18,male,1752,certificates only,alaska
+47,female,1198,undergraduate degree,los angeles
+29,male,1367,undergraduate degree,chicago
+53,female,1623,undergraduate degree,chicago
+47,female,2004,certificates only,new york
+51,male,2049,undergraduate degree,new york
+20,male,2062,certificates only,chicago
+38,female,1621,master degree,washington dc
+37,male,1052,certificates only,alaska
+66,male,800,master degree,new york
+50,male,1966,master degree,miami
+46,male,2078,undergraduate degree,alaska
+36,male,1628,master degree,florida
+49,male,1923,master degree,chicago
+46,male,1095,undergraduate degree,los angeles
+48,male,1383,undergraduate degree,los angeles
+28,male,1762,master degree,san francisco
+26,female,2013,master degree,florida
+63,male,1893,master degree,los angeles
+53,male,1490,undergraduate degree,new york
+50,male,1370,undergraduate degree,san francisco
+26,female,1901,undergraduate degree,washington dc
+38,male,1029,undergraduate degree,denver
+31,male,1323,certificates only,alaska
+68,female,1391,master degree,alaska
+33,male,1023,master degree,san francisco
+59,male,1934,undergraduate degree,denver
+18,female,1418,master degree,washington dc
+62,female,2074,undergraduate degree,chicago
+37,male,1013,certificates only,chicago
+42,female,1675,undergraduate degree,florida
+67,female,1484,undergraduate degree,washington dc
+60,female,998,undergraduate degree,denver
+38,female,1128,certificates only,san francisco
+62,male,1678,certificates only,chicago
+33,female,1742,undergraduate degree,denver
+48,male,2087,certificates only,new york
+45,female,1756,master degree,washington dc
+32,male,1012,master degree,denver
+69,female,1665,certificates only,miami
+37,female,1431,certificates only,alaska
+44,male,1912,certificates only,alaska
+61,male,1783,undergraduate degree,los angeles
+40,female,1049,undergraduate degree,los angeles
+25,male,1476,certificates only,califonia
+53,female,1694,undergraduate degree,new york
+65,female,1223,master degree,los angeles
+64,female,1093,certificates only,florida
+69,male,843,master degree,chicago
+52,male,1498,master degree,los angeles
+54,male,1569,undergraduate degree,alaska
+54,female,1651,undergraduate degree,miami
+50,male,1469,master degree,miami
+37,female,1690,undergraduate degree,washington dc
+21,female,848,certificates only,miami
+42,male,983,undergraduate degree,califonia
+37,female,1869,master degree,chicago
+55,male,1320,undergraduate degree,washington dc
+48,female,1853,undergraduate degree,los angeles
+56,female,2080,undergraduate degree,califonia
+65,female,1007,undergraduate degree,san francisco
+57,male,1587,undergraduate degree,los angeles
+23,female,2084,undergraduate degree,chicago
+33,male,1127,undergraduate degree,chicago
+67,male,1185,certificates only,miami
+41,male,1192,undergraduate degree,califonia
+50,female,1145,master degree,alaska
+60,male,1664,master degree,chicago
+28,female,2087,certificates only,chicago
+20,female,1044,certificates only,los angeles
+42,female,838,certificates only,chicago
+52,male,2033,master degree,san francisco
+48,male,1981,undergraduate degree,denver
+35,male,1298,master degree,califonia
+22,male,2054,master degree,florida
+18,male,2002,master degree,san francisco
+32,female,1403,master degree,washington dc
+35,male,1200,undergraduate degree,florida
+57,female,1813,certificates only,new york
+53,male,1689,master degree,alaska
+35,male,1163,certificates only,florida
+46,male,1866,undergraduate degree,san francisco
+40,male,808,undergraduate degree,chicago
+56,male,1174,certificates only,denver
+59,female,1305,master degree,chicago
+28,male,2049,undergraduate degree,new york
+31,female,1792,master degree,alaska
+24,male,1061,certificates only,los angeles
+43,male,1428,certificates only,denver
+56,male,901,certificates only,califonia
+66,female,1918,certificates only,alaska
+66,female,824,undergraduate degree,miami
+68,male,974,undergraduate degree,washington dc
+62,female,1332,undergraduate degree,miami
+59,female,1846,master degree,san francisco
+18,male,1952,master degree,los angeles
+40,male,1467,certificates only,washington dc
+34,female,1799,certificates only,washington dc
+37,male,1029,undergraduate degree,califonia
+27,male,1936,master degree,new york
+66,male,1284,undergraduate degree,denver
+46,male,1869,certificates only,san francisco
+69,male,1862,master degree,califonia
+65,female,1497,master degree,chicago
+28,male,1876,master degree,califonia
+22,female,1620,master degree,chicago
+41,male,2031,certificates only,miami
+32,female,1189,master degree,denver
+39,male,1985,master degree,califonia
+64,male,1248,master degree,washington dc
+21,male,1237,master degree,denver
+42,male,940,undergraduate degree,alaska
+34,male,1619,certificates only,denver
+64,male,2007,certificates only,washington dc
+33,male,1686,master degree,san francisco
+25,female,1366,master degree,los angeles
+32,female,1929,master degree,miami
+31,female,1578,certificates only,washington dc
+33,male,1902,master degree,chicago
+43,male,1566,certificates only,los angeles
+38,male,1652,certificates only,washington dc
+39,female,2092,master degree,califonia
+68,male,1375,certificates only,denver
+64,male,935,certificates only,chicago
+47,female,1894,undergraduate degree,miami
+62,female,1119,master degree,califonia
+55,female,1822,undergraduate degree,chicago
+40,male,1740,undergraduate degree,califonia
+45,male,1125,master degree,alaska
+30,female,1428,master degree,chicago
+30,male,1807,undergraduate degree,chicago
+44,female,1144,certificates only,washington dc
+30,male,1582,certificates only,new york
+25,female,1499,undergraduate degree,denver
+41,female,1272,master degree,denver
+57,female,1546,undergraduate degree,alaska
+61,male,1857,undergraduate degree,alaska
+30,female,1819,certificates only,florida
+68,female,1827,master degree,califonia
+56,male,1609,master degree,chicago
+45,female,1671,undergraduate degree,miami
+66,female,1206,certificates only,florida
+23,female,2005,certificates only,denver
+52,male,1673,undergraduate degree,new york
+51,male,1394,undergraduate degree,los angeles
+61,female,1476,certificates only,florida
+44,male,2086,certificates only,florida
+23,female,915,undergraduate degree,califonia
+27,male,1040,certificates only,miami
+43,male,2050,undergraduate degree,miami
+45,male,862,master degree,los angeles
+61,male,1858,certificates only,florida
+19,male,1866,undergraduate degree,alaska
+36,male,1681,certificates only,washington dc
+48,male,890,certificates only,denver
+50,male,1490,master degree,chicago
+44,male,1078,master degree,alaska
+38,female,802,undergraduate degree,los angeles
+48,female,1247,master degree,califonia
+57,female,1673,certificates only,alaska
+18,female,928,certificates only,los angeles
+40,female,1061,certificates only,los angeles
+52,male,1000,master degree,san francisco
+21,female,1748,master degree,san francisco
+24,female,1833,master degree,miami
+30,male,1150,master degree,alaska
+57,male,1153,master degree,washington dc
+56,female,811,master degree,san francisco
+37,male,1922,master degree,los angeles
+65,female,1096,undergraduate degree,miami
+66,male,1644,certificates only,washington dc
+24,male,1911,undergraduate degree,denver
+31,male,989,undergraduate degree,alaska
+54,male,1442,certificates only,alaska
+41,female,1650,undergraduate degree,miami
+40,female,2045,certificates only,alaska
+20,male,1545,certificates only,los angeles
+46,female,1538,certificates only,washington dc
+60,female,829,master degree,florida
+49,female,922,master degree,washington dc
+27,female,880,undergraduate degree,san francisco
+59,male,1175,master degree,miami
+42,male,1439,undergraduate degree,chicago
+63,female,801,master degree,florida
+47,female,2004,master degree,miami
+30,male,1425,undergraduate degree,san francisco
+36,male,1120,undergraduate degree,miami
+60,male,1515,certificates only,new york
+29,female,1797,master degree,denver
+59,female,1518,master degree,alaska
+54,male,1675,certificates only,califonia
+66,male,990,certificates only,washington dc
+34,female,876,master degree,san francisco
+48,male,1872,master degree,miami
+69,male,836,undergraduate degree,florida
+60,female,1582,undergraduate degree,san francisco
+38,male,1385,certificates only,alaska
+53,female,1717,certificates only,washington dc
+59,male,1171,certificates only,denver
+35,male,1895,undergraduate degree,califonia
+20,female,1221,certificates only,florida
+39,female,1712,master degree,chicago
+47,female,1916,master degree,chicago
+54,female,1414,certificates only,florida
+63,male,2087,undergraduate degree,los angeles
+64,female,1833,undergraduate degree,califonia
+34,male,1986,undergraduate degree,miami
+45,male,1119,undergraduate degree,florida
+26,male,1565,master degree,chicago
+46,female,921,master degree,san francisco
+20,female,1965,master degree,denver
+53,male,1762,certificates only,califonia
+31,female,1411,certificates only,denver
+59,male,1440,undergraduate degree,alaska
+54,female,1858,master degree,washington dc
+54,female,998,undergraduate degree,califonia
+58,female,816,certificates only,chicago
+36,female,2097,undergraduate degree,san francisco
+51,female,1990,undergraduate degree,los angeles
+56,male,1394,certificates only,san francisco
+69,female,814,certificates only,denver
+64,female,1477,undergraduate degree,washington dc
+58,female,1184,master degree,califonia
+43,female,1563,master degree,denver
+57,male,1489,certificates only,califonia
+66,female,1517,certificates only,miami
+55,female,1411,master degree,alaska
+20,female,1241,undergraduate degree,califonia
+52,female,2010,undergraduate degree,los angeles
+46,female,2025,certificates only,san francisco
+32,female,1132,master degree,washington dc
+29,female,1772,master degree,los angeles
+60,female,1109,master degree,denver
+44,male,1498,master degree,califonia
+58,male,1534,undergraduate degree,chicago
+39,female,1069,master degree,washington dc
+34,male,1801,master degree,washington dc
+46,female,838,undergraduate degree,washington dc
+55,male,1403,undergraduate degree,washington dc
+59,female,1293,master degree,san francisco
+63,female,1947,certificates only,chicago
+58,male,1883,certificates only,denver
+60,male,1174,undergraduate degree,florida
+29,female,1815,certificates only,chicago
+40,male,974,undergraduate degree,san francisco
+24,female,1607,certificates only,miami
+50,male,1127,certificates only,alaska
+32,male,1243,master degree,denver
+54,female,825,certificates only,new york
+41,female,1241,master degree,denver
+29,female,1659,certificates only,los angeles
+53,female,1993,master degree,alaska
+50,female,1497,undergraduate degree,los angeles
+64,male,1428,undergraduate degree,los angeles
+45,male,973,undergraduate degree,denver
+67,male,1081,master degree,chicago
+56,female,2026,certificates only,san francisco
+18,male,1958,certificates only,los angeles
+40,female,1058,master degree,denver
+51,male,830,certificates only,los angeles
+24,female,877,undergraduate degree,califonia
+54,male,1006,undergraduate degree,florida
+36,female,1664,undergraduate degree,denver
+45,female,1074,master degree,los angeles
+46,female,1523,master degree,califonia
+55,female,1785,undergraduate degree,new york
+56,male,1554,undergraduate degree,alaska
+68,male,1700,undergraduate degree,washington dc
+48,female,1263,master degree,san francisco
+68,male,956,certificates only,denver
+64,male,1365,undergraduate degree,miami
+25,male,1470,undergraduate degree,chicago
+39,female,1415,certificates only,alaska
+34,male,912,undergraduate degree,denver
+57,male,1550,certificates only,new york
+47,female,821,undergraduate degree,denver
+29,female,955,undergraduate degree,san francisco
+32,male,1445,certificates only,new york
+58,female,1512,master degree,san francisco
+48,female,1038,undergraduate degree,chicago
+26,male,848,certificates only,califonia
+58,male,2060,certificates only,miami
+66,male,1150,undergraduate degree,washington dc
+48,female,1848,undergraduate degree,washington dc
+41,female,906,certificates only,denver
+20,female,1992,undergraduate degree,florida
+46,male,1035,master degree,miami
+18,male,1269,certificates only,san francisco
+57,male,1212,master degree,los angeles
+30,male,968,undergraduate degree,miami
+35,female,1999,certificates only,new york
+51,male,1719,master degree,san francisco
+28,male,1012,master degree,washington dc
+46,male,2085,undergraduate degree,san francisco
+59,male,2064,undergraduate degree,florida
+29,female,823,undergraduate degree,washington dc
+23,male,1169,certificates only,san francisco
+35,male,1508,undergraduate degree,miami
+23,male,948,master degree,san francisco
+60,female,1453,certificates only,chicago
+40,female,1853,master degree,chicago
+32,female,1468,certificates only,alaska
+41,male,1042,master degree,chicago
+35,female,982,certificates only,los angeles
+28,male,1503,master degree,los angeles
+26,male,1543,master degree,washington dc
+66,female,1265,master degree,los angeles
+37,female,1372,master degree,florida
+30,male,2035,undergraduate degree,denver
+43,male,1256,certificates only,califonia
+31,female,1412,master degree,califonia
+34,female,1744,certificates only,denver
+22,male,1876,master degree,washington dc
+42,female,892,undergraduate degree,califonia
+45,female,1148,undergraduate degree,califonia
+68,male,1408,master degree,new york
+22,male,906,undergraduate degree,florida
+21,female,1541,certificates only,san francisco
+30,female,1881,undergraduate degree,florida
+20,female,1278,master degree,denver
+30,male,1658,certificates only,califonia
+50,male,1390,undergraduate degree,new york
+50,male,1885,undergraduate degree,new york
+33,male,906,undergraduate degree,miami
+54,male,1038,master degree,washington dc
+28,female,1957,certificates only,miami
+30,male,2028,master degree,san francisco
+36,female,922,undergraduate degree,chicago
+48,male,1917,certificates only,califonia
+23,female,1740,certificates only,alaska
+34,female,1244,master degree,califonia
+49,male,1455,undergraduate degree,chicago
+50,male,1631,master degree,los angeles
+61,female,2087,undergraduate degree,san francisco
+62,male,930,master degree,washington dc
+49,female,1486,undergraduate degree,new york
+61,male,1492,certificates only,califonia
+53,female,1378,master degree,new york
+62,female,1209,master degree,chicago
+42,female,1040,certificates only,miami
+33,female,1807,master degree,alaska
+39,male,1477,master degree,san francisco
+37,female,1337,certificates only,new york
+31,female,1687,master degree,washington dc
+51,male,1174,master degree,los angeles
+22,female,1952,undergraduate degree,florida
+57,female,852,undergraduate degree,alaska
+21,female,1649,undergraduate degree,miami
+52,female,1742,certificates only,alaska
+52,female,1201,master degree,alaska
+60,male,963,master degree,califonia
+32,male,1628,certificates only,san francisco
+36,male,2002,undergraduate degree,washington dc
+56,female,1412,certificates only,washington dc
+56,male,906,master degree,new york
+66,male,1542,master degree,san francisco
+35,female,1463,master degree,califonia
+23,male,993,certificates only,san francisco
+56,male,1568,certificates only,denver
+45,female,1600,undergraduate degree,new york
+26,male,1708,undergraduate degree,new york
+58,female,904,master degree,alaska
+23,female,1643,undergraduate degree,washington dc
+23,female,1669,undergraduate degree,denver
+25,female,1426,undergraduate degree,new york
+32,female,1849,master degree,califonia
+55,male,983,certificates only,los angeles
+59,male,2094,undergraduate degree,califonia
+32,male,1527,master degree,washington dc
+51,female,1314,undergraduate degree,florida
+45,male,1915,certificates only,los angeles
+69,female,1560,certificates only,san francisco
+31,female,1026,master degree,san francisco
+48,male,824,certificates only,denver
+61,female,915,certificates only,los angeles
+64,male,1582,certificates only,washington dc
+27,male,1088,undergraduate degree,florida
+21,male,1256,undergraduate degree,chicago
+21,female,1553,certificates only,miami
+21,male,1460,master degree,chicago
+51,male,1511,master degree,los angeles
+53,male,955,certificates only,san francisco
+34,female,1289,certificates only,new york
+46,female,1535,certificates only,alaska
+55,female,1072,undergraduate degree,denver
+18,female,1536,certificates only,alaska
+55,male,1045,master degree,new york
+47,male,1061,certificates only,florida
+36,male,866,certificates only,chicago
+32,female,1822,undergraduate degree,denver
+57,male,1049,undergraduate degree,miami
+24,male,2046,certificates only,miami
+46,male,1677,undergraduate degree,los angeles
+28,male,978,undergraduate degree,new york
+50,female,1314,master degree,washington dc
+64,female,1401,certificates only,denver
+47,female,1017,certificates only,washington dc
+36,female,1988,undergraduate degree,denver
+54,male,1890,master degree,miami
+47,female,1049,certificates only,chicago
+57,male,1323,certificates only,florida
+46,female,1219,undergraduate degree,denver
+47,male,1735,certificates only,washington dc
+57,female,1012,certificates only,miami
+44,male,2075,certificates only,los angeles
+45,male,1204,certificates only,washington dc
+60,male,1769,master degree,alaska
+30,female,1447,undergraduate degree,califonia
+35,female,1748,master degree,new york
+25,female,2009,undergraduate degree,alaska
+45,female,1246,master degree,florida
+25,female,1913,undergraduate degree,denver
+37,male,1303,master degree,chicago
+69,female,1267,master degree,denver
+50,female,1712,certificates only,los angeles
+30,female,1724,undergraduate degree,washington dc
+56,male,1138,master degree,new york
+69,female,1777,master degree,new york
+50,female,1300,undergraduate degree,denver
+48,female,924,certificates only,new york
+40,male,1764,certificates only,denver
+23,male,905,undergraduate degree,los angeles
+45,male,1139,certificates only,san francisco
+49,male,1734,certificates only,chicago
+59,female,1002,undergraduate degree,new york
+40,male,1119,master degree,alaska
+30,male,1161,undergraduate degree,denver
+63,female,1848,certificates only,miami
+40,male,1218,certificates only,new york
+56,female,1846,master degree,washington dc
+36,female,1480,undergraduate degree,washington dc
+47,male,1143,certificates only,new york
+47,female,1259,undergraduate degree,san francisco
+36,female,877,certificates only,califonia
+49,female,943,undergraduate degree,san francisco
+67,male,996,undergraduate degree,new york
+52,male,2034,undergraduate degree,san francisco
+37,male,1252,master degree,san francisco
+47,female,1291,master degree,new york
+63,male,964,master degree,washington dc
+61,female,2009,master degree,san francisco
+69,female,827,master degree,alaska
+40,male,1007,certificates only,florida
+33,male,1452,master degree,san francisco
+25,female,929,master degree,denver
+66,female,1704,undergraduate degree,chicago
+46,male,991,master degree,miami
+37,female,1711,certificates only,chicago
+45,female,1909,master degree,califonia
+61,male,2078,master degree,denver
+37,male,1908,master degree,miami
+33,female,1467,master degree,new york
+24,female,935,undergraduate degree,denver
+42,male,2094,undergraduate degree,san francisco
+40,female,1324,master degree,washington dc
+29,male,1567,certificates only,alaska
+55,female,861,certificates only,san francisco
+19,male,1161,master degree,califonia
+47,male,1588,undergraduate degree,chicago
+33,male,1477,undergraduate degree,florida
+69,female,2018,master degree,denver
+52,female,2024,undergraduate degree,califonia
+40,male,2085,undergraduate degree,los angeles
+63,male,1438,certificates only,miami
+69,female,927,certificates only,los angeles
+60,male,2082,undergraduate degree,los angeles
+40,male,864,undergraduate degree,los angeles
+63,female,1241,undergraduate degree,chicago
+57,female,835,certificates only,washington dc
+36,male,1214,certificates only,denver
+58,female,932,undergraduate degree,new york
+62,male,1180,certificates only,washington dc
+34,male,1326,master degree,alaska
+35,male,1314,master degree,washington dc
+61,female,1809,master degree,new york
+42,male,1310,certificates only,alaska
+56,male,1711,undergraduate degree,washington dc
+18,male,1792,master degree,san francisco
+66,male,1016,undergraduate degree,los angeles
+51,female,1952,certificates only,florida
+36,female,990,certificates only,washington dc
+25,female,1057,certificates only,los angeles
+32,male,2043,master degree,new york
+54,male,1635,master degree,denver
+44,male,1815,undergraduate degree,san francisco
+50,male,924,certificates only,chicago
+19,female,1051,master degree,san francisco
+66,male,1737,undergraduate degree,new york
+42,male,1868,undergraduate degree,los angeles
+40,female,913,certificates only,los angeles
+52,female,1537,undergraduate degree,washington dc
+48,female,1190,certificates only,califonia
+39,female,1617,undergraduate degree,denver
+22,male,1359,certificates only,alaska
+21,male,1883,master degree,alaska
+66,female,1917,master degree,chicago
+36,male,1394,master degree,los angeles
+51,male,1136,undergraduate degree,florida
+29,female,1148,undergraduate degree,florida
+29,female,1800,master degree,califonia
+30,male,1633,certificates only,los angeles
+22,male,1421,master degree,san francisco
+63,male,895,undergraduate degree,washington dc
+18,male,873,undergraduate degree,chicago
+43,male,1618,certificates only,new york
+58,male,1619,master degree,califonia
+25,male,1029,master degree,san francisco
+25,female,1522,master degree,alaska
+51,female,1778,undergraduate degree,san francisco
+25,female,1787,master degree,califonia
+52,female,952,undergraduate degree,florida
+22,female,983,certificates only,alaska
+23,female,1761,certificates only,washington dc
+57,male,1292,master degree,washington dc
+68,female,1053,undergraduate degree,denver
+30,male,1861,certificates only,miami
+63,female,1537,certificates only,florida
+50,male,2065,undergraduate degree,califonia
+39,male,1356,master degree,florida
+68,female,1497,certificates only,los angeles
+46,male,1225,certificates only,miami
+25,male,1367,undergraduate degree,san francisco
+46,female,863,undergraduate degree,alaska
+65,male,1008,undergraduate degree,denver
+43,male,1772,master degree,califonia
+59,male,856,undergraduate degree,florida
+51,male,1978,certificates only,new york
+19,male,1800,master degree,washington dc
+31,male,1246,undergraduate degree,denver
+56,female,1365,undergraduate degree,florida
+39,male,1276,certificates only,denver
+45,male,1206,master degree,washington dc
+56,female,1040,certificates only,alaska
+38,male,1811,certificates only,miami
+51,female,966,undergraduate degree,denver
+19,male,1716,master degree,new york
+49,male,2010,undergraduate degree,denver
+67,female,1929,certificates only,miami
+68,female,1229,master degree,los angeles
+56,female,1268,certificates only,los angeles
+46,male,1474,master degree,washington dc
+29,female,927,master degree,san francisco
+68,female,1953,undergraduate degree,denver
+53,female,1096,certificates only,miami
+49,male,1781,undergraduate degree,califonia
+69,male,1191,master degree,miami
+20,male,952,master degree,denver
+21,female,1011,master degree,miami
+50,male,2074,undergraduate degree,washington dc
+28,female,1150,undergraduate degree,denver
+50,female,1083,master degree,chicago
+51,male,1454,master degree,san francisco
+23,male,1134,master degree,denver
+18,male,1848,master degree,miami
+55,male,1277,master degree,denver
+64,female,1343,master degree,florida
+26,male,1980,certificates only,denver
+61,male,1564,certificates only,alaska
+62,male,930,undergraduate degree,florida
+42,female,1628,undergraduate degree,los angeles
+34,female,1640,undergraduate degree,alaska
+50,male,1992,certificates only,chicago
+50,male,943,master degree,florida
+59,female,1522,master degree,chicago
+42,male,1734,certificates only,alaska
+39,male,2012,certificates only,florida
+45,male,1688,undergraduate degree,washington dc
+64,female,900,master degree,new york
+53,female,1628,master degree,califonia
+22,male,882,certificates only,denver
+50,female,808,master degree,denver
+63,female,1252,master degree,denver
+42,male,2057,certificates only,chicago
+56,female,1750,master degree,califonia
+69,male,2093,master degree,washington dc
+60,female,1897,master degree,denver
+43,female,1002,master degree,denver
+50,female,1803,certificates only,califonia
+58,female,824,master degree,san francisco
+51,female,1593,master degree,miami
+24,female,1857,master degree,washington dc
+19,male,818,certificates only,chicago
+69,female,1134,certificates only,califonia
+49,female,1438,undergraduate degree,alaska
+25,male,1614,master degree,new york
+31,female,2030,certificates only,los angeles
+21,male,1063,undergraduate degree,califonia
+46,female,1795,undergraduate degree,denver
+33,female,1308,undergraduate degree,alaska
+47,female,1704,certificates only,alaska
+20,male,838,certificates only,san francisco
+65,male,1361,master degree,chicago
+37,female,1686,master degree,califonia
+50,male,814,master degree,new york
+36,male,1585,master degree,new york
+58,female,1177,undergraduate degree,denver
+52,female,1497,certificates only,new york
+48,male,919,certificates only,washington dc
+50,male,1301,master degree,florida
+67,male,1816,undergraduate degree,califonia
+64,male,1783,master degree,denver
+37,male,1978,master degree,los angeles
+59,male,1087,undergraduate degree,denver
+38,male,1425,certificates only,chicago
+58,male,1754,undergraduate degree,califonia
+64,male,1951,master degree,san francisco
+68,female,823,certificates only,califonia
+22,male,1093,undergraduate degree,chicago
+27,male,1866,undergraduate degree,los angeles
+18,male,1533,master degree,califonia
+44,male,1165,master degree,denver
+39,male,2033,master degree,florida
+28,male,1280,master degree,new york
+39,female,954,certificates only,los angeles
+51,female,846,certificates only,chicago
+56,female,1714,certificates only,san francisco
+55,female,1479,master degree,san francisco
+61,female,934,certificates only,denver
+57,female,1162,master degree,new york
+51,male,868,master degree,san francisco
+49,female,1424,certificates only,washington dc
+59,male,839,master degree,chicago
+25,female,1102,master degree,alaska
+23,female,1123,master degree,miami
+24,male,873,undergraduate degree,califonia
+41,male,2052,certificates only,miami
+40,female,1848,master degree,denver
+60,female,999,undergraduate degree,florida
+57,female,832,certificates only,new york
+49,female,2092,certificates only,los angeles
+55,female,1447,certificates only,califonia
+56,female,1570,master degree,alaska
+41,female,1540,master degree,alaska
+46,female,1792,master degree,washington dc
+54,female,1332,undergraduate degree,alaska
+20,male,1397,master degree,chicago
+28,male,1918,undergraduate degree,califonia
+38,female,1585,certificates only,califonia
+18,female,1483,master degree,los angeles
+34,female,1492,master degree,san francisco
+48,female,1081,master degree,san francisco
+21,male,903,certificates only,miami
+32,female,2041,master degree,miami
+62,male,1491,undergraduate degree,califonia
+66,female,1891,certificates only,denver
+69,female,1999,master degree,chicago
+23,female,1204,master degree,chicago
+67,male,927,undergraduate degree,denver
+28,female,2023,undergraduate degree,los angeles
+61,male,1263,master degree,florida
+64,male,1938,master degree,los angeles
+45,female,1112,master degree,chicago
+51,female,1961,undergraduate degree,miami
+26,male,846,master degree,alaska
+22,female,1633,master degree,miami
+57,female,1685,undergraduate degree,miami
+50,male,2014,master degree,new york
+65,male,1206,certificates only,denver
+51,male,1209,certificates only,miami
+25,male,1201,certificates only,los angeles
+51,male,1283,certificates only,los angeles
+32,male,1021,certificates only,denver
+31,male,1070,master degree,alaska
+61,male,1781,undergraduate degree,los angeles
+39,male,1876,master degree,miami
+54,male,1808,certificates only,san francisco
+30,female,2063,undergraduate degree,washington dc
+44,female,1252,undergraduate degree,califonia
+36,female,1036,undergraduate degree,los angeles
+55,male,1529,master degree,alaska
+53,male,1848,master degree,florida
+30,male,1881,master degree,califonia
+59,female,1759,master degree,los angeles
+53,female,1842,master degree,washington dc
+43,male,1667,master degree,miami
+55,male,826,certificates only,florida
+19,male,1517,undergraduate degree,new york
+62,female,1824,master degree,new york
+59,female,814,master degree,chicago
+61,female,1770,undergraduate degree,florida
+18,female,1771,undergraduate degree,los angeles
+33,female,1075,certificates only,miami
+46,female,1449,certificates only,san francisco
+58,male,1127,master degree,new york
+24,female,1493,certificates only,los angeles
+67,female,1032,certificates only,los angeles
+68,male,1058,certificates only,new york
+50,male,1269,certificates only,califonia
+44,male,1949,master degree,los angeles
+38,female,1843,master degree,florida
+56,female,942,certificates only,new york
+19,female,1069,master degree,chicago
+34,male,1153,undergraduate degree,denver
+43,male,1394,certificates only,los angeles
+37,female,1718,certificates only,los angeles
+48,male,861,undergraduate degree,califonia
+18,male,1305,master degree,florida
+60,male,939,certificates only,denver
+65,male,1980,master degree,washington dc
+39,male,2060,master degree,alaska
+51,male,1315,undergraduate degree,alaska
+19,male,1322,undergraduate degree,alaska
+43,male,831,undergraduate degree,califonia
+56,male,891,undergraduate degree,denver
+30,male,1414,master degree,los angeles
+66,female,914,master degree,califonia
+36,male,1085,undergraduate degree,florida
+31,female,1111,certificates only,chicago
+31,male,833,master degree,new york
+42,male,1353,undergraduate degree,florida
+62,male,1163,certificates only,washington dc
+44,female,1633,master degree,miami
+37,male,905,master degree,denver
+57,male,977,master degree,alaska
+52,female,1849,undergraduate degree,florida
+33,female,2005,undergraduate degree,califonia
+55,male,1312,certificates only,san francisco
+56,female,1606,certificates only,san francisco
+50,female,1575,master degree,chicago
+54,female,1077,undergraduate degree,miami
+52,female,1431,undergraduate degree,florida
+69,female,1247,undergraduate degree,denver
+64,female,1153,certificates only,new york
+19,male,2066,certificates only,los angeles
+50,male,1470,master degree,denver
+48,male,960,master degree,los angeles
+55,female,1480,certificates only,washington dc
+25,female,1618,undergraduate degree,califonia
+66,female,1488,master degree,califonia
+68,male,1683,undergraduate degree,new york
+68,male,1087,undergraduate degree,washington dc
+50,male,1057,master degree,denver
+61,male,1802,master degree,san francisco
+59,male,1414,certificates only,new york
+23,female,1483,master degree,califonia
+19,female,1991,undergraduate degree,florida
+51,female,928,certificates only,denver
+69,female,973,master degree,chicago
+48,male,2065,undergraduate degree,chicago
+36,male,1311,undergraduate degree,califonia
+67,male,1213,undergraduate degree,los angeles
+35,male,1420,certificates only,chicago
+36,female,920,master degree,washington dc
+49,male,954,certificates only,florida
+25,female,1178,undergraduate degree,washington dc
+39,female,2004,certificates only,washington dc
+36,male,1443,undergraduate degree,denver
+64,female,1333,undergraduate degree,denver
+62,male,1907,master degree,san francisco
+45,male,1246,certificates only,denver
+27,male,1310,undergraduate degree,new york
+22,female,1576,master degree,alaska
+31,male,1803,undergraduate degree,califonia
+41,male,1435,undergraduate degree,florida
+49,male,1407,master degree,alaska
+69,female,1785,undergraduate degree,los angeles
+55,female,876,master degree,florida
+18,male,1896,undergraduate degree,san francisco
+36,female,1882,certificates only,florida
+49,female,1108,master degree,alaska
+19,male,1605,master degree,califonia
+38,female,1871,certificates only,chicago
+32,male,1747,certificates only,alaska
+59,female,1568,certificates only,miami
+22,male,1033,master degree,denver
+43,male,1206,certificates only,new york
+37,male,1399,certificates only,florida
+45,male,1371,master degree,chicago
+46,male,1320,master degree,chicago
+26,male,2082,master degree,new york
+63,female,931,undergraduate degree,chicago
+30,male,1285,master degree,califonia
+64,male,1170,master degree,washington dc
+67,male,942,undergraduate degree,alaska
+29,male,1903,certificates only,denver
